@@ -6,7 +6,7 @@ body {
 }
 
 .cta {
-  color: Aquamarine;
+  color: rgb(113, 242, 199);
   font-size: 16px;
 }
 
@@ -21,7 +21,7 @@ h2 {
 }
 
 p {
-  color: Gray;
+  color: rgb(104, 104, 104);
   font-size: 21px;
 }
 
